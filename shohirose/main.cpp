@@ -1,6 +1,7 @@
-#include "hello.hpp"
+nclude "hello.hpp"
+#include "good_morning.hpp"
 
-int main() {
+int main () {
     hello();
+    good_morning();
 }
-
